@@ -1,4 +1,4 @@
-module github.com/dip-dev/json
+module github.com/dip-dev/go-json
 
 go 1.20
 

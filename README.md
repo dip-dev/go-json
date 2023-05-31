@@ -1,2 +1,2 @@
-# json
-Repository for managing extensions to the json package.
+# go-json
+Repository for managing extensions to the golang json package.
